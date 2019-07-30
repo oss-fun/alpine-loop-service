@@ -1,0 +1,2 @@
+# alpine-loop-service
+lxdのalpineコンテナでloopプログラムをサービスとして起動するために必要なあれこれ
